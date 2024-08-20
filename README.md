@@ -26,6 +26,6 @@ Me encanta aprender y experimentar con nuevas tecnologías. Dando lugar a que mi
 ## 📫 Contáctame:
 
 <a href="https://www.linkedin.com/in/matias-horisberger">
-  <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=310669&logo=linkedin&logoColor=black">
+  <img src="https://img.shields.io/badge/linkedin-310669?&style=for-the-badge&logo=linkedin&logoColor=black">
 </a>
 
