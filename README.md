@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Mi nombre es Matías Horisberger
+<h1 align='center'>👋 ¡Hola! Mi nombre es Matías Horisberger</h1>
 
 Cuento experiencia en soporte y desarrollo de software, área en la que me especializo. Mi enfoque principal es crear soluciones eficientes y útiles que resuelvan problemas reales en proyectos que me involucren, aportando la totalidad de mis aptitudes y conocimientos.
 
