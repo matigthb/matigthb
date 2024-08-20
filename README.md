@@ -2,7 +2,7 @@
 
 Cuento experiencia en soporte y desarrollo de software, área en la que me especializo. Mi enfoque principal es crear soluciones eficientes y útiles que resuelvan problemas reales en proyectos que me involucren, aportando la totalidad de mis aptitudes y conocimientos.
 
-## 🚀 Áreas de Expertise:
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/>  Áreas de Expertise:
 
 Lenguajes: C#, C, TypeScript, JavaScript, Angular, Visual Basic 6, SQL, HTML, CSS<br>
 Frameworks: Angular, .NET, Ionic, Node.js<br>
