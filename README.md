@@ -13,11 +13,11 @@ Angular, .NET, Ionic, Node.js<br>
 ## Herramientas
 Git, Firebase, Postman, Jira, Visual Studio Code, Heroku, SQL Server<br>
 
-## 💡 Lo que me motiva:
+<h1 align='center'>💡 Lo que me motiva</h1>
 Me encanta aprender y experimentar con nuevas tecnologías. Dando lugar a que mi imaginación fluya y poder plasmar mis ideas a través del código y las herramientas a mi alcance, para así obtener los mejores resultados de lo que se busca hacer.
 
 
-## 📊 Github stats
+<h1 align='center'>📊 Github stats</h1>
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
