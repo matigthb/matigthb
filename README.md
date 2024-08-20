@@ -36,4 +36,4 @@ Me encanta aprender y experimentar con nuevas tecnologías. Dando lugar a que mi
 
 ##
 
-![snake gif](https://github.com/Lucca7r/Lucca7r/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Lucca7r/Lucca7r/blob/output/github-contribution-grid-snake-dark.svg)
