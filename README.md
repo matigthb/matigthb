@@ -4,9 +4,9 @@ Cuento experiencia en soporte y desarrollo de software, área en la que me espec
 
 ## 🚀 Áreas de Expertise:
 
-Lenguajes: C#, C, TypeScript, JavaScript, Angular, Visual Basic 6, SQL, HTML, CSS
-Frameworks: Angular, .NET, Ionic, Node.js
-Herramientas: Git, Firebase, Postman, Jira, Visual Studio Code, Heroku, SQL Server
+Lenguajes: C#, C, TypeScript, JavaScript, Angular, Visual Basic 6, SQL, HTML, CSS<br>
+Frameworks: Angular, .NET, Ionic, Node.js<br>
+Herramientas: Git, Firebase, Postman, Jira, Visual Studio Code, Heroku, SQL Server<br>
 
 ## 💡 Lo que me motiva:
 Me encanta aprender y experimentar con nuevas tecnologías. Dando lugar a que mi imaginación fluya y poder plasmar mis ideas a través del código y las herramientas a mi alcance, para así obtener los mejores resultados de lo que se busca hacer.
