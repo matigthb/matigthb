@@ -19,8 +19,6 @@ Me encanta aprender y experimentar con nuevas tecnologías. Dando lugar a que mi
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matigthb&langs_count=8&layout=compact&theme=react&bg_color=310669&title_color=7a2858&icon_color=7a2858&show_icons=true&border_color=7a2858&border_radius=15" height="192px"/></a>
   <br/>
-  
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matigthb&theme=vision_friendly_dark">
   <b>Nota:</b> El gráfico de lenguajes más usados representa una métrica de porcentaje de cada lenguaje en mis repositorios de github y no es un parámetro de habilidad, conocimientos o especialización. 
 </p>
 
