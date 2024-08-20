@@ -7,9 +7,10 @@ Cuento experiencia en soporte y desarrollo de software, área en la que me espec
 ## Lenguajes 
 C#, C, TypeScript, JavaScript, Visual Basic 6, SQL, HTML, CSS<br>
 
-##Frameworks 
+## Frameworks 
 Angular, .NET, Ionic, Node.js<br>
-##Herramientas
+
+## Herramientas
 Git, Firebase, Postman, Jira, Visual Studio Code, Heroku, SQL Server<br>
 
 ## 💡 Lo que me motiva:
