@@ -36,4 +36,4 @@ Me encanta aprender y experimentar con nuevas tecnologías. Dando lugar a que mi
 
 ##
 
-![snake gif](https://github.com/matigthb/matigthb/github-contribution-grid-snake-dark.svg)
+![snake gif]([https://github.com/matigthb/matigthb/github-contribution-grid-snake-dark.svg](https://github.com/matigthb/matigthb/blob/master/github-contribution-grid-snake-dark.svg))
