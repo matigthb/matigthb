@@ -6,9 +6,9 @@ Cuento experiencia en soporte y desarrollo de software, área en la que me espec
 
 ## Lenguajes 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C#](https://img.shields.io/badge/sharp-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/sharp-%23E34F26.svg?style=for-the-badge&logo=sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-%23E34F26.svg?style=for-the-badge&logo=C&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23E34F26.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
