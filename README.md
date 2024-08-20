@@ -2,11 +2,14 @@
 
 Cuento experiencia en soporte y desarrollo de software, área en la que me especializo. Mi enfoque principal es crear soluciones eficientes y útiles que resuelvan problemas reales en proyectos que me involucren, aportando la totalidad de mis aptitudes y conocimientos.
 
-## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/>  Áreas de Expertise:
+<h1 align='center'><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/>  Áreas de Expertise:</h1>
 
-Lenguajes: C#, C, TypeScript, JavaScript, Angular, Visual Basic 6, SQL, HTML, CSS<br>
-Frameworks: Angular, .NET, Ionic, Node.js<br>
-Herramientas: Git, Firebase, Postman, Jira, Visual Studio Code, Heroku, SQL Server<br>
+## Lenguajes 
+C#, C, TypeScript, JavaScript, Angular, Visual Basic 6, SQL, HTML, CSS<br>
+##Frameworks 
+Angular, .NET, Ionic, Node.js<br>
+##Herramientas
+Git, Firebase, Postman, Jira, Visual Studio Code, Heroku, SQL Server<br>
 
 ## 💡 Lo que me motiva:
 Me encanta aprender y experimentar con nuevas tecnologías. Dando lugar a que mi imaginación fluya y poder plasmar mis ideas a través del código y las herramientas a mi alcance, para así obtener los mejores resultados de lo que se busca hacer.
