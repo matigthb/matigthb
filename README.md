@@ -5,7 +5,7 @@ Cuento experiencia en soporte y desarrollo de software, área en la que me espec
 <h1 align='center'><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/>  Áreas de Expertise:</h1>
 
 ## Lenguajes 
-C#, C, TypeScript, JavaScript, Visual Basic 6, SQL, HTML, CSS<br>
+C#, C, TypeScript, JavaScript, Python, Visual Basic 6, SQL, HTML, CSS<br>
 
 ## Frameworks 
 Angular, .NET, Ionic, Node.js<br>
